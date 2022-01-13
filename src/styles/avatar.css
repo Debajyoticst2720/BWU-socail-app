@@ -1,0 +1,29 @@
+.supper-avatar {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.big-avatar {
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+}
+
+.medium-avatar {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+
+.small-avatar {
+    width: 22px;
+    height: 22px;
+    border-radius: 50%;
+}
+
+.card-tile{
+    background: white;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+}
